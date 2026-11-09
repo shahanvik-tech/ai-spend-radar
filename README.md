@@ -1,6 +1,8 @@
 # AI Spend Radar
 
-[Open the live site](https://ai-spend-radar.shahanvik.chatgpt.site/)
+[Open the GitHub Pages site](https://shahanvik-tech.github.io/ai-spend-radar/)
+
+The GitHub Pages edition shows the dated snapshot with the chart, searchable company list, source links, and email drafts. GitHub Pages is static, so it does not run the live news scan. The [server-backed edition](https://ai-spend-radar.shahanvik.chatgpt.site/) retains that feature.
 
 AI Spend Radar covers companies ranked **101–500 in the 2026 Fortune 500** and excludes the first 100. The list and source profile links are in [`fortune-500-ranks-101-500.csv`](fortune-500-ranks-101-500.csv), based on [Fortune's 2026 ranking](https://fortune.com/ranking/fortune500/).
 
