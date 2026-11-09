@@ -1,0 +1,401 @@
+fortune_rank,company,fortune_profile
+101,"GE Aerospace",https://fortune.com/company/general-electric/
+102,"Deere",https://fortune.com/company/deere/
+103,"Plains GP Holdings",https://fortune.com/company/plains-gp-holdings/
+104,"Molina Healthcare",https://fortune.com/company/molina-healthcare/
+105,"Netflix",https://fortune.com/company/netflix/
+106,"Thermo Fisher Scientific",https://fortune.com/company/thermo-fisher-scientific/
+107,"Abbott Laboratories",https://fortune.com/company/abbott-laboratories/
+108,"Qualcomm",https://fortune.com/company/qualcomm/
+109,"Northwestern Mutual",https://fortune.com/company/northwestern-mutual/
+110,"U.S. Bancorp",https://fortune.com/company/u-s-bancorp/
+111,"Dollar General",https://fortune.com/company/dollar-general/
+112,"Northrop Grumman",https://fortune.com/company/northrop-grumman/
+113,"Best Buy",https://fortune.com/company/best-buy/
+114,"Salesforce",https://fortune.com/company/salesforce-com/
+115,"Bank of New York (BNY)",https://fortune.com/company/bank-of-new-york-mellon-corp/
+116,"Honeywell Technologies",https://fortune.com/company/honeywell-international/
+117,"Philip Morris International",https://fortune.com/company/philip-morris-international/
+118,"CBRE Group",https://fortune.com/company/cbre-group/
+119,"Visa",https://fortune.com/company/visa/
+120,"Dow",https://fortune.com/company/dow/
+121,"US Foods Holding",https://fortune.com/company/us-foods-holding/
+122,"Mondel\u0113z International",https://fortune.com/company/mondelez-international/
+123,"Lithia Motors",https://fortune.com/company/lithia-motors/
+124,"GE Vernova",https://fortune.com/company/gevernova/
+125,"Micron Technology",https://fortune.com/company/micron-technology/
+126,"Warner Bros. Discovery",https://fortune.com/company/discovery/
+127,"Starbucks",https://fortune.com/company/starbucks/
+128,"World Kinect",https://fortune.com/company/world-fuel-services/
+129,"Amgen",https://fortune.com/company/amgen/
+130,"CHS",https://fortune.com/company/chs/
+131,"Advanced Micro Devices",https://fortune.com/company/advanced-micro-devices/
+132,"Coupang",https://fortune.com/company/coupang/
+133,"Hewlett Packard Enterprise",https://fortune.com/company/hewlett-packard-enterprise/
+134,"D.R. Horton",https://fortune.com/company/d-r-horton/
+135,"Lennar",https://fortune.com/company/lennar/
+136,"PNC Financial Services Group",https://fortune.com/company/pnc-financial-services/
+137,"Cummins",https://fortune.com/company/cummins/
+138,"Oneok",https://fortune.com/company/oneok/
+139,"PayPal Holdings",https://fortune.com/company/paypal-holdings/
+140,"GuideWell Mutual Holding",https://fortune.com/company/guidewell-mutual-holding/
+141,"Mastercard",https://fortune.com/company/mastercard/
+142,"Nucor",https://fortune.com/company/nucor/
+143,"Apollo Global Management",https://fortune.com/company/apollo-global-management/
+144,"Penske Automotive Group",https://fortune.com/company/penske-automotive-group/
+145,"Duke Energy",https://fortune.com/company/duke-energy/
+146,"United Natural Foods",https://fortune.com/company/united-natural-foods/
+147,"Ferguson Enterprises",https://fortune.com/company/ferguson/
+148,"Arrow Electronics",https://fortune.com/company/arrow-electronics/
+149,"NRG Energy",https://fortune.com/company/nrg-energy/
+150,"Truist Financial",https://fortune.com/company/bbt-corp/
+151,"Jabil",https://fortune.com/company/jabil-circuit/
+152,"Southern",https://fortune.com/company/southern/
+153,"Gilead Sciences",https://fortune.com/company/gilead-sciences/
+154,"PBF Energy",https://fortune.com/company/pbf-energy/
+155,"Paramount Skydance",https://fortune.com/company/cbs/
+156,"KKR",https://fortune.com/company/kkr/
+157,"Quanta Services",https://fortune.com/company/quanta-services/
+158,"Paccar",https://fortune.com/company/paccar/
+159,"Medline",https://fortune.com/company/medline/
+160,"Applied Materials",https://fortune.com/company/applied-materials/
+160,"Hartford Insurance Group",https://fortune.com/company/hartford-financial-services/
+162,"CarMax",https://fortune.com/company/carmax/
+163,"Southwest Airlines",https://fortune.com/company/southwest-airlines/
+164,"Baker Hughes",https://fortune.com/company/baker-hughes/
+165,"Charles Schwab",https://fortune.com/company/charles-schwab/
+166,"AutoNation",https://fortune.com/company/auto-nation/
+167,"NextEra Energy",https://fortune.com/company/nextera-energy/
+168,"Marsh & McLennan",https://fortune.com/company/marsh-mclennan/
+169,"Booking Holdings",https://fortune.com/company/booking-holdings/
+170,"McDonald's",https://fortune.com/company/mcdonalds/
+171,"HF Sinclair",https://fortune.com/company/hollyfrontier/
+172,"AIG",https://fortune.com/company/aig/
+173,"Occidental Petroleum",https://fortune.com/company/occidental-petroleum/
+174,"Marriott International",https://fortune.com/company/marriott-international/
+175,"Jones Lang LaSalle",https://fortune.com/company/jones-lang-lasalle/
+176,"International Paper",https://fortune.com/company/international-paper/
+177,"Freeport-McMoRan",https://fortune.com/company/freeport-mcmoran/
+178,"Constellation Energy",https://fortune.com/company/constellation-energy/
+179,"Waste Management",https://fortune.com/company/waste-management/
+180,"Live Nation Entertainment",https://fortune.com/company/live-nation-entertainment/
+181,"Stryker",https://fortune.com/company/stryker/
+182,"Dollar Tree",https://fortune.com/company/dollar-tree/
+183,"3M",https://fortune.com/company/3m/
+184,"Kraft Heinz",https://fortune.com/company/kraft-heinz/
+185,"PG&E",https://fortune.com/company/pge-corp/
+186,"Danaher",https://fortune.com/company/danaher/
+187,"Union Pacific",https://fortune.com/company/union-pacific/
+188,"Genuine Parts",https://fortune.com/company/genuine-parts/
+189,"Exelon",https://fortune.com/company/exelon/
+190,"BlackRock",https://fortune.com/company/blackrock/
+191,"Block",https://fortune.com/company/square/
+192,"Adobe",https://fortune.com/company/adobe-systems/
+193,"Reinsurance Group of America",https://fortune.com/company/reinsurance-group-of-america/
+194,"Sherwin-Williams",https://fortune.com/company/sherwin-williams/
+195,"WESCO International",https://fortune.com/company/wesco-international/
+196,"Lear",https://fortune.com/company/lear/
+197,"Synchrony",https://fortune.com/company/synchrony-financial/
+198,"Amphenol",https://fortune.com/company/amphenol/
+199,"Ross Stores",https://fortune.com/company/ross-stores/
+200,"Newmont",https://fortune.com/company/newmont-mining/
+201,"EOG Resources",https://fortune.com/company/eog-resources/
+202,"State Street",https://fortune.com/company/state-street-corp/
+203,"Macy's",https://fortune.com/company/macys/
+204,"Group 1 Automotive",https://fortune.com/company/group-1-automotive/
+205,"CDW",https://fortune.com/company/cdw/
+206,"Avnet",https://fortune.com/company/avnet/
+207,"Halliburton",https://fortune.com/company/halliburton/
+208,"Super Micro Computer",https://fortune.com/company/super-micro-computer/
+209,"American Electric Power",https://fortune.com/company/american-electric-power/
+210,"L3Harris Technologies",https://fortune.com/company/harris/
+211,"Becton Dickinson",https://fortune.com/company/becton-dickinson/
+212,"Carrier Global",https://fortune.com/company/carrier-global/
+213,"BJ's Wholesale Club",https://fortune.com/company/bjs-wholesale-club/
+214,"Tenet Healthcare",https://fortune.com/company/tenet-healthcare/
+215,"Fiserv",https://fortune.com/company/fiserv/
+216,"Cognizant Technology Solutions",https://fortune.com/company/cognizant-technology-solutions/
+217,"GE HealthCare Technologies",https://fortune.com/company/ge-healthcare-technologies/
+218,"Automatic Data Processing",https://fortune.com/company/adp/
+219,"Colgate-Palmolive",https://fortune.com/company/colgate-palmolive/
+220,"Carvana",https://fortune.com/company/carvana/
+221,"Altria Group",https://fortune.com/company/altria-group/
+222,"Boston Scientific",https://fortune.com/company/boston-scientific/
+223,"Cheniere Energy",https://fortune.com/company/cheniere-energy/
+224,"Parker-Hannifin",https://fortune.com/company/parker-hannifin/
+225,"Kimberly-Clark",https://fortune.com/company/kimberly-clark/
+226,"American Family Insurance Group",https://fortune.com/company/american-family-insurance-group/
+227,"General Mills",https://fortune.com/company/general-mills/
+228,"Edison International",https://fortune.com/company/edison-international/
+229,"AutoZone",https://fortune.com/company/autozone/
+230,"Ameriprise Financial",https://fortune.com/company/ameriprise-financial/
+231,"Intuit",https://fortune.com/company/intuit/
+232,"Guardian Life Ins. Co. of America",https://fortune.com/company/guardian-life-ins-co-of-america/
+233,"Cleveland-Cliffs",https://fortune.com/company/cleveland-cliffs/
+234,"Global Partners",https://fortune.com/company/global-partners/
+235,"Aramark",https://fortune.com/company/aramark/
+236,"Corebridge Financial",https://fortune.com/company/corebridge-financial/
+237,"Loews",https://fortune.com/company/loews/
+238,"Lam Research",https://fortune.com/company/lam-research/
+239,"Goodyear Tire & Rubber",https://fortune.com/company/goodyear-tire-rubber/
+240,"Pacific Life",https://fortune.com/company/pacific-life/
+241,"Auto-Owners Insurance",https://fortune.com/company/auto-owners-insurance/
+242,"Peter Kiewit Sons'",https://fortune.com/company/peter-kiewit-sons/
+243,"Lincoln National",https://fortune.com/company/lincoln-national/
+244,"Steel Dynamics",https://fortune.com/company/steel-dynamics/
+245,"Emerson Electric",https://fortune.com/company/emerson-electric/
+246,"Asbury Automotive Group",https://fortune.com/company/asbury-automotive-group/
+247,"ManpowerGroup",https://fortune.com/company/manpowergroup/
+248,"W.W. Grainger",https://fortune.com/company/w-w-grainger/
+249,"Jones Financial (Edward Jones)",https://fortune.com/company/edward-jones/
+250,"O'Reilly Automotive",https://fortune.com/company/oreilly-automotive/
+251,"Vistra",https://fortune.com/company/vistra-energy/
+252,"Texas Instruments",https://fortune.com/company/texas-instruments/
+253,"MGM Resorts International",https://fortune.com/company/mgm-resorts-international/
+254,"Corteva",https://fortune.com/company/corteva/
+255,"Universal Health Services",https://fortune.com/company/universal-health-services/
+256,"PulteGroup",https://fortune.com/company/pultegroup/
+257,"Omnicom Group",https://fortune.com/company/omnicom-group/
+258,"Dick's Sporting Goods",https://fortune.com/company/dicks-sporting-goods/
+259,"Devon Energy",https://fortune.com/company/devon-energy/
+260,"Leidos Holdings",https://fortune.com/company/leidos-holdings/
+261,"Aflac",https://fortune.com/company/aflac/
+262,"Targa Resources",https://fortune.com/company/targa-resources/
+263,"Murphy USA",https://fortune.com/company/murphy-usa/
+264,"LPL Financial Holdings",https://fortune.com/company/lpl-financial-holdings/
+265,"EMCOR Group",https://fortune.com/company/emcor-group/
+266,"Kinder Morgan",https://fortune.com/company/kinder-morgan/
+267,"Consolidated Edison",https://fortune.com/company/consolidated-edison/
+268,"Keurig Dr Pepper",https://fortune.com/company/dr-pepper-snapple-group/
+269,"Republic Services",https://fortune.com/company/republic-services/
+270,"Markel Group",https://fortune.com/company/markel/
+271,"Farmers Insurance Exchange",https://fortune.com/company/farmers-insurance-exchange/
+272,"Dominion Energy",https://fortune.com/company/dominion-resources/
+273,"Land O'Lakes",https://fortune.com/company/land-olakes/
+274,"IQVIA Holdings",https://fortune.com/company/quintiles-ims-holdings/
+275,"Fox",https://fortune.com/company/fox/
+276,"AECOM",https://fortune.com/company/aecom/
+277,"C.H. Robinson Worldwide",https://fortune.com/company/c-h-robinson-worldwide/
+278,"Bitgo Holdings",https://fortune.com/company/bitgo-holdings/
+279,"United Rentals",https://fortune.com/company/united-rentals/
+280,"Ecolab",https://fortune.com/company/ecolab/
+281,"Illinois Tool Works",https://fortune.com/company/illinois-tool-works/
+282,"Casey's General Stores",https://fortune.com/company/caseys-general-stores/
+283,"Raymond James Financial",https://fortune.com/company/raymond-james-financial/
+284,"PPG Industries",https://fortune.com/company/ppg-industries/
+285,"DTE Energy",https://fortune.com/company/dte-energy/
+286,"Corning",https://fortune.com/company/corning/
+287,"Principal Financial",https://fortune.com/company/principal-financial/
+288,"Mutual of Omaha",https://fortune.com/company/mutual-of-omaha-insurance/
+289,"Kohl's",https://fortune.com/company/kohls/
+290,"Tractor Supply",https://fortune.com/company/tractor-supply/
+291,"Whirlpool",https://fortune.com/company/whirlpool/
+292,"Fluor",https://fortune.com/company/fluor/
+293,"Gap",https://fortune.com/company/gap/
+294,"S&P Global",https://fortune.com/company/sp-global/
+295,"Ally Financial",https://fortune.com/company/ally-financial/
+296,"Builders FirstSource",https://fortune.com/company/builders-firstsource/
+297,"Sonic Automotive",https://fortune.com/company/sonic-automotive/
+298,"Stanley Black & Decker",https://fortune.com/company/stanley-black-decker/
+299,"Kenvue",https://fortune.com/company/kenvue/
+300,"Kyndryl Holdings",https://fortune.com/company/kyndryl-holdings/
+301,"Diamondback Energy",https://fortune.com/company/diamondback-energy/
+302,"EchoStar",https://fortune.com/company/echostar/
+303,"Textron",https://fortune.com/company/textron/
+304,"Expedia Group",https://fortune.com/company/expedia-group/
+305,"W.R. Berkley",https://fortune.com/company/w-r-berkley/
+306,"Xcel Energy",https://fortune.com/company/xcel-energy/
+307,"FirstEnergy",https://fortune.com/company/firstenergy/
+308,"Erie Insurance Group",https://fortune.com/company/erie-insurance-group/
+309,"First Citizens BancShares",https://fortune.com/company/first-citizens-bancshares/
+310,"Blackstone",https://fortune.com/company/blackstone-group/
+311,"Fidelity National Financial",https://fortune.com/company/fidelity-national-financial/
+312,"Otis Worldwide",https://fortune.com/company/otis-worldwide/
+313,"Amentum Holdings",https://fortune.com/company/amentum-holdings/
+314,"Regeneron Pharmaceuticals",https://fortune.com/company/regeneron-pharmaceuticals/
+315,"Est\u00e9e Lauder",https://fortune.com/company/estee-lauder/
+316,"BorgWarner",https://fortune.com/company/borgwarner/
+317,"Northern Trust",https://fortune.com/company/northern-trust/
+318,"Viatris",https://fortune.com/company/viatris/
+319,"MasTec",https://fortune.com/company/mastec/
+320,"Reliance",https://fortune.com/company/reliance-steel-aluminum/
+321,"Western & Southern Financial Group",https://fortune.com/company/western-southern-financial/
+322,"Alaska Air Group",https://fortune.com/company/alaska-air-group/
+323,"BrightSpring Health Services",https://fortune.com/company/brightspring-health-services/
+324,"CSX",https://fortune.com/company/csx/
+325,"LKQ",https://fortune.com/company/lkq/
+326,"Labcorp Holdings",https://fortune.com/company/laboratory-corp-of-america/
+327,"Arthur J. Gallagher",https://fortune.com/company/arthur-j-gallagher/
+328,"Venture Global",https://fortune.com/company/venutre-global/
+329,"DoorDash",https://fortune.com/company/doordash/
+330,"Sempra",https://fortune.com/company/sempra-energy/
+331,"DaVita",https://fortune.com/company/davita/
+332,"Eversource Energy",https://fortune.com/company/eversource-energy/
+333,"ServiceNow",https://fortune.com/company/servicenow/
+334,"M&T Bank",https://fortune.com/company/mt-bank-corp/
+335,"Henry Schein",https://fortune.com/company/henry-schein/
+336,"GXO Logistics",https://fortune.com/company/gxo-logistics/
+337,"Ball",https://fortune.com/company/ball/
+338,"Unum Group",https://fortune.com/company/unum-group/
+339,"Las Vegas Sands",https://fortune.com/company/las-vegas-sands/
+340,"Entergy",https://fortune.com/company/entergy/
+341,"Fifth Third Bancorp",https://fortune.com/company/fifth-third-bancorp/
+342,"Graybar Electric",https://fortune.com/company/graybar-electric/
+343,"DXC Technology",https://fortune.com/company/dxc-technology/
+344,"Alcoa",https://fortune.com/company/alcoa/
+345,"Assurant",https://fortune.com/company/assurant/
+346,"Ryder System",https://fortune.com/company/ryder-system/
+347,"Intercontinental Exchange",https://fortune.com/company/intercontinental-exchange/
+348,"Cincinnati Financial",https://fortune.com/company/cincinnati-financial/
+349,"Chewy",https://fortune.com/company/chewy/
+350,"Community Health Systems",https://fortune.com/company/community-health-systems/
+350,"Huntington Bancshares",https://fortune.com/company/huntington-bancshares/
+352,"Huntington Ingalls Industries",https://fortune.com/company/huntington-ingalls-industries/
+353,"Wayfair",https://fortune.com/company/wayfair/
+354,"Lumen Technologies",https://fortune.com/company/centurylink/
+355,"Ulta Beauty",https://fortune.com/company/ulta-beauty/
+356,"Crown Holdings",https://fortune.com/company/crown-holdings/
+357,"Airbnb",https://fortune.com/company/airbnb/
+358,"AES",https://fortune.com/company/aes/
+359,"Norfolk Southern",https://fortune.com/company/norfolk-southern/
+360,"Public Service Enterprise Group",https://fortune.com/company/public-service-enterprise-group/
+361,"KLA",https://fortune.com/company/kla-tencor/
+362,"Expand Energy",https://fortune.com/company/chesapeake-energy/
+363,"Hormel Foods",https://fortune.com/company/hormel-foods/
+364,"Darden Restaurants",https://fortune.com/company/darden-restaurants/
+365,"Citizens Financial Group",https://fortune.com/company/citizens-financial-group/
+366,"Mosaic",https://fortune.com/company/mosaic/
+367,"Hilton Worldwide Holdings",https://fortune.com/company/hilton-worldwide-holdings/
+368,"Air Products & Chemicals",https://fortune.com/company/air-products-chemicals/
+369,"Jacobs Solutions",https://fortune.com/company/jacobs-engineering-group/
+370,"Vertex Pharmaceuticals",https://fortune.com/company/vertex-pharmaceuticals/
+371,"J.B. Hunt Transport Services",https://fortune.com/company/j-b-hunt-transport-services/
+372,"Booz Allen Hamilton Holding",https://fortune.com/company/booz-allen-hamilton/
+373,"Williams",https://fortune.com/company/williams/
+374,"Chipotle Mexican Grill",https://fortune.com/company/chipotle-mexican-grill/
+375,"Yum China Holdings",https://fortune.com/company/yum-china-holdings/
+376,"Oscar Health",https://fortune.com/company/oscar-health/
+377,"Hershey",https://fortune.com/company/hershey/
+378,"Motorola Solutions",https://fortune.com/company/motorola-solutions/
+379,"Equitable Holdings",https://fortune.com/company/equitable-holdings/
+380,"Avis Budget Group",https://fortune.com/company/avis-budget-group/
+381,"Conagra Brands",https://fortune.com/company/conagra-brands/
+382,"Baxter International",https://fortune.com/company/baxter-international/
+383,"Burlington Stores",https://fortune.com/company/burlington-stores/
+384,"Caesars Entertainment",https://fortune.com/company/eldorado-resorts/
+385,"Owens Corning",https://fortune.com/company/owens-corning/
+386,"KeyCorp",https://fortune.com/company/keycorp/
+387,"Thrivent Financial",https://fortune.com/company/thrivent-financial-for-lutherans/
+388,"Westlake",https://fortune.com/company/westlake-chemical/
+389,"Westinghouse Air Brake",https://fortune.com/company/westinghouse-air-brake/
+390,"Molson Coors Beverage",https://fortune.com/company/molson-coors-brewing/
+391,"Lululemon athletica",https://fortune.com/company/lululemon-athletica/
+392,"FM",https://fortune.com/company/fm-global/
+393,"Ebay",https://fortune.com/company/ebay/
+394,"Expeditors Intl. of Washington",https://fortune.com/company/expeditors-intl-of-washington/
+395,"Quest Diagnostics",https://fortune.com/company/quest-diagnostics/
+396,"Analog Devices",https://fortune.com/company/analog-devices/
+397,"Andersons",https://fortune.com/company/andersons/
+398,"Gold.com",https://fortune.com/company/a-mark-precious-metals/
+399,"Toll Brothers",https://fortune.com/company/toll-brothers/
+400,"International Flavors & Fragrances",https://fortune.com/company/international-flavors-fragrances/
+401,"Welltower",https://fortune.com/company/welltower/
+402,"Jefferies Financial Group",https://fortune.com/company/leucadia-national/
+403,"Autoliv",https://fortune.com/company/autoliv/
+404,"Mohawk Industries",https://fortune.com/company/mohawk-industries/
+405,"Delek US Holdings",https://fortune.com/company/delek-us-holdings/
+406,"Fidelity National Information (FIS)",https://fortune.com/company/fidelity-national-information-services/
+407,"Accendra Health",https://fortune.com/company/owens-minor/
+408,"American Tower",https://fortune.com/company/american-tower/
+409,"NVR",https://fortune.com/company/nvr/
+410,"Interactive Brokers Group",https://fortune.com/company/interactive-brokers-group/
+411,"Oshkosh",https://fortune.com/company/oshkosh/
+412,"Cintas",https://fortune.com/company/cintas/
+413,"Campbell's",https://fortune.com/company/campbell-soup/
+414,"Vertiv Holdings",https://fortune.com/company/vertiv-holdings/
+415,"Global Payments",https://fortune.com/company/global-payments/
+416,"Constellation Brands",https://fortune.com/company/constellation-brands/
+417,"AGCO",https://fortune.com/company/agco/
+418,"Intuitive Surgical",https://fortune.com/company/intuitive-surgical/
+419,"Ace Hardware",https://fortune.com/company/ace-hardware-corporation/
+420,"Dana",https://fortune.com/company/dana/
+421,"Biogen",https://fortune.com/company/biogen/
+422,"News Corp.",https://fortune.com/company/news-corp/
+423,"Concentrix",https://fortune.com/company/concentrix/
+424,"WEC Energy Group",https://fortune.com/company/wec-energy-group/
+425,"VF",https://fortune.com/company/vf/
+426,"Seaboard",https://fortune.com/company/seaboard/
+427,"Icahn Enterprises",https://fortune.com/company/icahn-enterprises/
+428,"Regions Financial",https://fortune.com/company/regions-financial/
+429,"Thor Industries",https://fortune.com/company/thor-industries/
+430,"Workday",https://fortune.com/company/workday/
+431,"Celanese",https://fortune.com/company/celanese/
+432,"Western Digital",https://fortune.com/company/western-digital/
+433,"QVC Group",https://fortune.com/company/qurate-retail/
+434,"Zoetis",https://fortune.com/company/zoetis/
+435,"CenterPoint Energy",https://fortune.com/company/centerpoint-energy/
+436,"Equinix",https://fortune.com/company/equinix/
+437,"Palo Alto Networks",https://fortune.com/company/palo-alto-networks/
+438,"APA",https://fortune.com/company/apache/
+439,"Old Republic International",https://fortune.com/company/old-republic-international/
+440,"Comfort Systems USA",https://fortune.com/company/comfort-systems-usa/
+441,"JetBlue Airways",https://fortune.com/company/jetblue-airways/
+442,"PPL",https://fortune.com/company/ppl/
+443,"Xylem",https://fortune.com/company/xylem/
+444,"Arista Networks",https://fortune.com/company/arista-networks/
+445,"Packaging Corp. of America",https://fortune.com/company/packaging-corp-of-america/
+446,"PVH",https://fortune.com/company/pvh/
+447,"Ovintiv",https://fortune.com/company/ovintiv/
+448,"Avery Dennison",https://fortune.com/company/avery-dennison/
+449,"TransDigm Group",https://fortune.com/company/transdigm-group/
+450,"Sprouts Farmers Market",https://fortune.com/company/sprouts-farmers-market/
+451,"Prologis",https://fortune.com/company/prologis/
+452,"Franklin Resources",https://fortune.com/company/franklin-resources/
+453,"Eastman Chemical",https://fortune.com/company/eastman-chemical/
+454,"ABM Industries",https://fortune.com/company/abm-industries/
+455,"NOV",https://fortune.com/company/national-oilwell-varco/
+456,"J.M. Smucker",https://fortune.com/company/j-m-smucker/
+457,"Securian Financial Group",https://fortune.com/company/securian-financial-group/
+458,"EQT",https://fortune.com/company/eqt/
+459,"CACI International",https://fortune.com/company/caci-international/
+460,"Graphic Packaging Holding",https://fortune.com/company/graphic-packaging-holding/
+461,"Advance Auto Parts",https://fortune.com/company/advance-auto-parts/
+462,"Optimum Communications",https://fortune.com/company/altice-usa/
+463,"Sirius XM Holdings",https://fortune.com/company/sirius-xm-holdings/
+464,"CMS Energy",https://fortune.com/company/cms-energy/
+465,"Hertz Global Holdings",https://fortune.com/company/hertz-global-holdings/
+466,"Ameren",https://fortune.com/company/ameren/
+467,"Rockwell Automation",https://fortune.com/company/rockwell-automation/
+468,"Solventum",https://fortune.com/company/solventum/
+469,"Monster Beverage",https://fortune.com/company/monster-beverage/
+470,"Nasdaq",https://fortune.com/company/nasdaq/
+471,"Howmet Aerospace",https://fortune.com/company/arconic/
+472,"Insight Enterprises",https://fortune.com/company/insight-enterprises/
+473,"Zimmer Biomet Holdings",https://fortune.com/company/zimmer-biomet-holdings-3/
+474,"Yum Brands",https://fortune.com/company/yum-brands/
+475,"Fastenal",https://fortune.com/company/fastenal/
+476,"Marvell Technology",https://fortune.com/company/marvell-technology/
+477,"Voya Financial",https://fortune.com/company/voya-financial/
+478,"American Financial Group",https://fortune.com/company/american-financial-group/
+479,"Post Holdings",https://fortune.com/company/post-holdings/
+480,"XPO",https://fortune.com/company/xpo-logistics/
+481,"DuPont",https://fortune.com/company/dow-chemical/
+482,"Sanmina",https://fortune.com/company/sanmina/
+483,"Taylor Morrison Home",https://fortune.com/company/taylor-morrison-home/
+484,"Dover",https://fortune.com/company/dover/
+485,"Vulcan Materials",https://fortune.com/company/vulcan-materials/
+486,"APi Group",https://fortune.com/company/api-group/
+487,"Roper Technologies",https://fortune.com/company/roper-technologies/
+488,"KBR",https://fortune.com/company/kbr/
+489,"Sonoco Products",https://fortune.com/company/sonoco-products/
+490,"Williams-Sonoma",https://fortune.com/company/williams-sonoma/
+491,"Commercial Metals",https://fortune.com/company/commercial-metals/
+492,"Moody's",https://fortune.com/company/moodys/
+493,"Continental Resources",https://fortune.com/company/continental-resources/
+494,"Ingersoll Rand",https://fortune.com/company/gardner-denver/
+495,"Core & Main",https://fortune.com/company/core-main/
+496,"Coterra Energy",https://fortune.com/company/coterra-energy/
+497,"Primoris Services",https://fortune.com/company/primoris-services/
+498,"Masco",https://fortune.com/company/masco/
+499,"Somnigroup International",https://fortune.com/company/tempur-sealy-international/
+500,"Resideo Technologies",https://fortune.com/company/resideo-technologies/
